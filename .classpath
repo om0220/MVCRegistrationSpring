@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/spring-web-5.3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/spring-webmvc-5.3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/commons-dbcp2-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/commons-pool2-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/hibernate-core-5.4.32.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/hibernate-jpa-2.1-api-1.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/javax.persistence-api-2.2 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/javax.servlet-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/javax.transaction-api-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/jstl-1.2 (9).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/mysql-connector-j-9.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/spring-aop-5.3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/spring-beans-5.3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/spring-context-5.3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/spring-core-5.3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/spring-expression-5.3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/spring-jdbc-5.3.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/spring-orm-5.3.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/spring-tx-5.3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/latestjars/latestjars/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/byte-buddy-1.17.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/istack-commons-runtime-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/istack-commons-runtime-3.0.11.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
